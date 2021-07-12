@@ -5,13 +5,11 @@ THIS IS G MAIL BOMBER TOOL...DONT USE FOR HARM ANYONE PLEACE..I am not responsib
 
 *********************FOR KALI LINUX*********************
 
-git clone https://github.com/catteamlk/ebomber.git
+git clone https://github.com/catteamlk/ebomber-tur.git
 
-cd ebomber
+cd ebomber-tur
 
 pip install -r reqnew.txt
-
-pip install ascii_magic
 
 python3 EBomber.py
 
