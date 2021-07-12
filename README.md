@@ -1,13 +1,23 @@
-# ebomber-tur
+# ebomber
+THIS IS G MAIL BOMBER TOOL...DONT USE FOR HARM ANYONE PLEACE..I am not responsible if you do that
 
-*INSTALL In Turmux*
+*********************HOW TO INSTALL THIS*********************
+
+*********************FOR KALI LINUX*********************
+
+git clone https://github.com/catteamlk/ebomber.git
 
 cd ebomber
 
 pip install -r reqnew.txt
 
+pip install ascii_magic
+
 python3 EBomber.py
 
-*INSTALL In Kali Linux*
+******************dosont working that*********************
 
-link = https://github.com/catteamlk/ebomber
+************FOR TURMUX*****************
+not working coming soon..........
+
+
