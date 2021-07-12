@@ -3,7 +3,7 @@ THIS IS G MAIL BOMBER TOOL...DONT USE FOR HARM ANYONE PLEACE..I am not responsib
 
 *********************HOW TO INSTALL THIS*********************
 
-*********************FOR KALI LINUX*********************
+*********************FOR TURMUX*********************
 
 git clone https://github.com/catteamlk/ebomber-tur.git
 
@@ -13,9 +13,5 @@ pip install -r reqnew.txt
 
 python3 EBomber.py
 
-******************dosont working that*********************
-
-************FOR TURMUX*****************
-not working coming soon..........
 
 
